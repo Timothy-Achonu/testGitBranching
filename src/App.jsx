@@ -10,6 +10,8 @@ function App() {
     <div className="App">
       <h1>In develop</h1>
       <h1>In develop!</h1>
+        <h1>In main branch</h1>
+        <h1>another line in main</h1>
     </div>
   )
 }
